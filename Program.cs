@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿int secretNumber = 7;
+
+Console.WriteLine($"Secret Number: {secretNumber}");
